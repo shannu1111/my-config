@@ -6,3 +6,5 @@ eureka:
     fetch-registry: true
   instance:
     hostname: localhost
+   
+message: From Config server
